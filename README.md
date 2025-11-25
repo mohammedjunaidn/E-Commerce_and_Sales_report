@@ -19,7 +19,7 @@ The dataset exhibits several data quality issues, including missing values (NaN 
 spelling mistakes, inconsistent entries, typos, duplicate records in unique columns, incorrect data types, and invalid values.<br>
 Key columns are: Product_subCategory, Quantity, CustomerFeedback, Delivered_date, DeliveryRegion, DeliveryState, Sales,
            <br>Cost, Revenue and Profit.
-## EDA, Cleaning and Preprocessing
+## EDA, Data cleaning and Preprocessing
 Duplicate records found in unique identifier columns were removed, which reduced the row count from 40,000 to 38,176.<br>
 One column, DeliveryStatus was dropped because the Kaggle dataset already represents delivered sales records.<br>
 Three new columns were added for improved analytics and visualization:<br>
