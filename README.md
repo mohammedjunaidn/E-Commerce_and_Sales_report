@@ -18,5 +18,5 @@ Central regions. It consists of 40,000 rows and 25 columns (data types: float64(
 The dataset exhibits several data quality issues, including missing values (NaN and null), blank columns, special characters,<br>
 spelling mistakes, inconsistent entries, typos, duplicate records in unique columns, incorrect data types, and invalid values.<br>
 Key columns are:Product_subCategory, Quantity, CustomerFeedback, Delivered_date, DeliveryRegion, DeliveryState, Sales,
-           <br>Cost, Revenue and Profit
+           <br>Cost, Revenue and Profit.
            
