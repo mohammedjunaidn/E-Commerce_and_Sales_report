@@ -26,6 +26,7 @@ already represents delivered sales records. Three new columns were added for imp
 - Age_category (derived from Age),
 - Category (derived from Sub_category),
 - Customer_rating (derived from Customer_feedback).<br>
+
 These additions support better reporting, segmentation, and analysis. Some column names were renamed to improve readability.<br>
 To ensure data consistency, all column data types were corrected to their appropriate types. Several data quality issues such as <br>
 special characters, spelling mistakes, inconsistent entries, typos, incorrect data types, and invalid values were efficiently addressed.<br>                     Missing, NaN, and null values were handled using suitable techniques:
