@@ -20,9 +20,9 @@ spelling mistakes, inconsistent entries, typos, duplicate records in unique colu
 Key columns are: Product_subCategory, Quantity, CustomerFeedback, Delivered_date, DeliveryRegion, DeliveryState, Sales,
            <br>Cost, Revenue and Profit.
 ## Cleaning and Preprocessing
-Duplicate records found in unique identifier columns were removed, which reduced the row count from 40,000 to 38,176. One column,<br>
-DeliveryStatus, was dropped because the Kaggle dataset already represents delivered sales records. Three new columns were added <br>
-for improved analytics and visualization:<br>
+Duplicate records found in unique identifier columns were removed, which reduced the row count from 40,000 to 38,176.<br>
+One column, DeliveryStatus was dropped because the Kaggle dataset already represents delivered sales records.<br>
+Three new columns were added for improved analytics and visualization:<br>
 - Age_category (derived from Age),
 - Category (derived from Sub_category),
 - Customer_rating (derived from Customer_feedback).<br>
