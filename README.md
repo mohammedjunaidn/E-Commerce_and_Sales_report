@@ -19,7 +19,7 @@ The dataset exhibits several data quality issues, including missing values (NaN 
 spelling mistakes, inconsistent entries, typos, duplicate records in unique columns, incorrect data types, and invalid values.<br>
 Key columns are: Product_subCategory, Quantity, CustomerFeedback, Delivered_date, DeliveryRegion, DeliveryState, Sales,
            <br>Cost, Revenue and Profit.
-## Cleaning and Preprocessing
+## EDA, Cleaning and Preprocessing
 Duplicate records found in unique identifier columns were removed, which reduced the row count from 40,000 to 38,176.<br>
 One column, DeliveryStatus was dropped because the Kaggle dataset already represents delivered sales records.<br>
 Three new columns were added for improved analytics and visualization:<br>
@@ -38,6 +38,20 @@ special characters, spelling mistakes, inconsistent entries, typos, incorrect da
 
 The cleaned E-Commerce and Sales dataset contains 38,176 rows and 27 columns (Data types: float64 (10), int64 (5), object (12)).
 https://drive.google.com/file/d/1Ri__E5e7CZJ0fua66Wykd6rzsqeScK-c/view?usp=drive_link.
-## Tools and Techniques used
-           
+## Visualization
+The cleaned E-Commerce and Sales dataset contains 38,176 rows and 27 columns (float64 = 10, int64 = 5, object = 12).<br>
+It covers the period from January 2019 to January 2025 and includes records from various states in India for customers aged 15 to 61.<br>
+A total of 19 visualizations were used in the analysis to create an effective data analytics report.
+- Vertical Bar Charts: 6.
+- Horizontal Bar, Trend, Pie, KPI, and Scatterplots: 2 each.
+- Correlation Heatmap, Treemap, and Donut Chart: 1 each.
+
+Extracting useful insights and transforming raw data into visual charts to create an effective data analytics report..This helps <br> 
+in making better e-commerce decisions because visualization clearly highlights key insights, supports informed choices and <br>
+assists in planning future goals. It also makes presentations easier and allows non-technical stakeholders to understand <br>
+their ongoing business. Overall, this improves the e-commerce business by helping teams make the right decisions.<br>
+## Tools 
+Python Libraries <br>
+- Pandas and NumPy (Data cleaning and preprocessing)
+- Matplotlib and seaborn (Visualization)
            
