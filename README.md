@@ -38,5 +38,6 @@ special characters, spelling mistakes, inconsistent entries, typos, incorrect da
 
 The cleaned E-Commerce and Sales dataset contains 38,176 rows and 27 columns (Data types: float64 (10), int64 (5), object (12)).
 https://drive.google.com/file/d/1Ri__E5e7CZJ0fua66Wykd6rzsqeScK-c/view?usp=drive_link.
+## Tools and Techniques used
            
            
