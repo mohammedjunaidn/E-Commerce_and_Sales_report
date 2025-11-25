@@ -20,9 +20,9 @@ spelling mistakes, inconsistent entries, typos, duplicate records in unique colu
 Key columns are: Product_subCategory, Quantity, CustomerFeedback, Delivered_date, DeliveryRegion, DeliveryState, Sales,
            <br>Cost, Revenue and Profit.
 ## Cleaning and Preprocessing
-The cleaned E-Commerce and Sales dataset contains 38,176 rows and 27 columns. Duplicate records found in unique identifier columns <br>
-were removed, which reduced the row count from 40,000 to 38,176. One column, DeliveryStatus, was dropped because the Kaggle dataset <br>
-already represents delivered sales records. Three new columns were added for improved analytics and visualization:<br>
+Duplicate records found in unique identifier columns were removed, which reduced the row count from 40,000 to 38,176. One column,<br>
+DeliveryStatus, was dropped because the Kaggle dataset already represents delivered sales records. Three new columns were added <br>
+for improved analytics and visualization:<br>
 - Age_category (derived from Age),
 - Category (derived from Sub_category),
 - Customer_rating (derived from Customer_feedback).<br>
@@ -35,5 +35,7 @@ special characters, spelling mistakes, inconsistent entries, typos, incorrect da
 -  Mode imputation for categorical columns,
 -  Forward-fill for date-related columns,
 -  Logical imputation where context-based correction was required.
+
+The cleaned E-Commerce and Sales dataset contains 38,176 rows and 27 columns (Data types: float64 (10), int64 (5), object (12)). 
            
            
