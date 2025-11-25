@@ -52,6 +52,6 @@ assists in planning future goals. It also makes presentations easier and allows 
 their ongoing business. Overall, this improves the e-commerce business by helping teams make the right decisions.<br>
 ## Tools 
 Python Libraries <br>
-- Pandas and NumPy (Data cleaning and preprocessing)
+- Pandas and NumPy (EDA, Data cleaning and preprocessing)
 - Matplotlib and seaborn (Visualization)
            
