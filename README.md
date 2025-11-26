@@ -55,12 +55,13 @@ Jupyter Notebook <br>
 Python Libraries <br>
 - Pandas and NumPy (EDA, Data cleaning and preprocessing)
 - Matplotlib and seaborn (Visualization
+## Conclusion
+This data analytics report provides clear insights into the sales trends and overall performance of the e-commerce business from 2019 to 2025 across <br>
+various states in India. The data cleaning and analysis process transformed raw, unstructured information into meaningful insights that support<br>
+better decision-making and help drive future business growth. The final cleaned dataset is now structured, consistent, and reliable for further analysis.<br>
+- Database storage using SQL for efficient data management and retrieval
+- Power BI dashboard creation for professional visual reporting
+- Advanced statistical analysis to uncover hidden patterns and understand relationships between variables
+- Machine learning model development to forecast future sales trends based on six years of historical data
 
-## Conclcusion
-Data Analytics report helped to understand the sales and overall performance Ecommerce of 2019 to 2025 accross various states in India.<br>
-The Cleaned dataset is very useful to later perfomance such as to store into database using SQL for data efficent storage and retraivel, <br>
-PowerBI dashboard creations to the effective report presentations, Advanced Statistical Analysis to understand real truth of ecommercrelationship between <br>
-columns and values Machine Learning to predict the
-future of the Ecommerce from this 
-records and history.
-           
+
