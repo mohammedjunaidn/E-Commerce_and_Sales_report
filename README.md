@@ -29,7 +29,7 @@ Three new columns were added for improved analytics and visualization:<br>
 - Customer_rating (derived from Customer_feedback).<br>
 
 These additions support better reporting, segmentation, and analysis. Some column names were renamed to improve readability.<br>
-To ensure data consistency, all column data types were corrected to their appropriate types. Several data quality issues such as <br>
+To ensure data consistency, all column data types were corrected to their appropriate types. Several data quality issues such as<br>
 special characters, spelling mistakes, inconsistent entries, typos, incorrect data types, and invalid values were efficiently addressed.<br>                  
 Missing, NaN, and null values were handled using suitable techniques:
 -  Median imputation for skewed numerical data with outliers.
@@ -43,15 +43,15 @@ Power Query in Excel. Both tools effectively supported the EDA and data-cleaning
 The cleaned E-Commerce and Sales dataset contains 38,176 rows and 27 columns (Data types: float64 (9), int64 (6), object (12)).
 https://drive.google.com/file/d/1vGJ2FdUkDXgNo5QZcBt54KrMXkVTU_cO/view?usp=drive_link.
 ## Visualization
-Extracting useful insights and transforming raw data into visual charts to create an effective data analytics report..This helps <br> 
-in making better e-commerce decisions because visualization clearly highlights key insights, supports informed choices and <br>
-assists in planning future goals. It also makes presentations easier and allows non-technical stakeholders to understand <br>
+Extracting useful insights and transforming raw data into visual charts to create an effective data analytics report..This helps<br> 
+in making better e-commerce decisions because visualization clearly highlights key insights, supports informed choices and<br>
+assists in planning future goals. It also makes presentations easier and allows non-technical stakeholders to understand<br>
 their ongoing business. Overall, this improves the e-commerce business by helping teams make the right decisions.<br>
 
-Data visualization was performed using Python libraries such as Matplotlib and Seaborn, as well as the BI tool Power BI for creating interactive <br>
+Data visualization was performed using Python libraries such as Matplotlib and Seaborn, as well as the BI tool Power BI for creating interactive<br>
 dashboards to enable better e-commerce and sales business performance analysis.<br>
 ## Statistical Analysis and columns extraction
-Conducted a comprehensive statistical analysis encompassing both descriptive and inferential statistics. The study provides an understanding of <br>
+Conducted a comprehensive statistical analysis encompassing both descriptive and inferential statistics. The study provides an understanding of<br>
 statistical trends and the overall performance of the ongoing business. The analysis also offers insights into relationships between column <br>
 values and interactions across different columns, supporting improved machine learning performance for prediction and future value forecasting.<br>
 Libraries Used:<br>
@@ -61,7 +61,7 @@ Libraries Used:<br>
 - SciPy
 - Matplotlib
 - Seaborn <br>
-The dataset has been organized into three separate tables, linked using the common column Customer_id, to enable structured data storage
+The dataset has been organized into three separate tables, linked using the common column Customer_id, to enable structured data storage<br>
 and efficient retrieval. Some column names have been modified to improve readability. This organization enhances data management,<br>
 simplifies SQL-based queries, and supports efficient data storage and retrieval in the database. It also helps address business-related problems<br>
 using SQL queries and enables more effective analysis for predictive modeling and forecasting.<br>
