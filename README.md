@@ -51,8 +51,8 @@ their ongoing business. Overall, this improves the e-commerce business by helpin
 Data visualization was performed using Python libraries such as Matplotlib and Seaborn, as well as the BI tool Power BI for creating interactive<br>
 dashboards to enable better e-commerce and sales business performance analysis.<br>
 ## Statistical Analysis and columns extraction
-Conducted a comprehensive statistical analysis encompassing both descriptive and inferential statistics. The study provides an understanding of<br>
-statistical trends and the overall performance of the ongoing business. The analysis also offers insights into relationships between column <br>
+Conducted a comprehensive statistical analysis encompassing both descriptive and inferential statistics. The study provides an understanding<br>
+of statistical trends and the overall performance of the ongoing business. The analysis also offers insights into relationships between column <br>
 values and interactions across different columns, supporting improved machine learning performance for prediction and future value forecasting.<br>
 Libraries Used:<br>
 - Pandas
