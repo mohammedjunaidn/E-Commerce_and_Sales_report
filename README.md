@@ -10,7 +10,8 @@ and customer purchasing behaviour.<br>
 Example:
 - Which product is sold the most ?
 - Which product generates the highest sales and profit ?
-- Which region contributes the highest profit ? etc.....
+- Which region contributes the highest profit ?
+- What are the net profit and turnover of the business ?
 ## Dataset Description
 https://drive.google.com/file/d/1RPMdEC_Mdv6sItDwWZAlVF1JOYPQyJFC/view?usp=drive_link <br>
 The dataset, obtained from the Kaggle e-commerce platform, contains sales delivery records from January 2019 to January 2025 <br>
