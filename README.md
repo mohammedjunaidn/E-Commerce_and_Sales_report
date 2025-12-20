@@ -71,8 +71,8 @@ Table names:<br>
 - delivery_and_sales_details
 ## Tools Used
 - 1 Jupyter Notebook (within VS Code): Used to create a clear and well-structured analytical report.
-- 2 Python Programming: Utilized libraries such as Pandas, NumPy, Matplotlib, Seaborn, SciPy, and Statsmodels for
-- Exploratory Data Analysis (EDA), data cleaning, preprocessing, statistical analysis, and visualization.
+- 2 Python Programming: Utilized libraries such as Pandas, NumPy, Matplotlib, Seaborn, SciPy, and Statsmodels for<br>
+  Exploratory Data Analysis (EDA), data cleaning, preprocessing, statistical analysis, and visualization.
 - 3 Excel: Used the Power Query tool to support EDA, data cleaning, and preprocessing.
 - 4 Power BI: Used to create interactive dashboards for improved presentation and reporting.
 - 5 MySQL Workbench: Used to store the split tables in a database and retrieve records for report submission.
