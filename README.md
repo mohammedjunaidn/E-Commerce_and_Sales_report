@@ -76,13 +76,13 @@ SQL queries—including aggregate functions, GROUP BY, JOINs, WHERE, ORDER BY, a
 Nearly 34 business questions were answered using SQL queries, resulting in a comprehensive analysis of the six-year<br>
 e-commerce business’s overall performance.<br>
 ## Tools Used
-- 1 Jupyter Notebook (within VS Code): Used to create a clear and well-structured analytical report.
-- 2 Python Programming: Utilized libraries such as Pandas, NumPy, Matplotlib, Seaborn, SciPy, and Statsmodels for<br>
-  Exploratory Data Analysis (EDA), data cleaning, preprocessing, statistical analysis, and visualization.
-- 3 Excel: Used the Power Query tool to support EDA, data cleaning, and preprocessing.
-- 4 Power BI: Used to create interactive dashboards for improved presentation and reporting.
-- 5 MySQL Workbench: Used to store the split tables in a database and retrieve records for report submission.
-- 6 MS Word: Used for quick report preparation and documentation.
+- 1) Jupyter Notebook (within VS Code): Used to create a clear and well-structured analytical report.
+- 2) Python Programming: Utilized libraries such as Pandas, NumPy, Matplotlib, Seaborn, SciPy, and Statsmodels for<br>
+     Exploratory Data Analysis (EDA), data cleaning, preprocessing, statistical analysis, and visualization.
+- 3) Excel: Used the Power Query tool to support EDA, data cleaning, and preprocessing.
+- 4) Power BI: Used to create interactive dashboards for improved presentation and reporting.
+- 5) MySQL Workbench: Used to store the split tables in a database and retrieve records for report submission.
+- 6) MS Word: Used for quick report preparation and documentation.
 ## Project Structure
 - Uncleaned Dataset (ZIP): Raw dataset before data cleaning and preprocessing.
 - Jupyter Notebook (EDA): Exploratory Data Analysis, data cleaning, and preprocessing.
