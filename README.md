@@ -61,7 +61,8 @@ Libraries Used:<br>
 - Statsmodels
 - SciPy
 - Matplotlib
-- Seaborn 
+- Seaborn
+  
 The dataset has been organized into three separate tables, linked using the common column Customer_id, to enable structured data<br>
 storage and efficient retrieval. Some column names have been modified to improve readability. This organization enhances<br>
 datamanagement, simplifies SQL-based queries, and supports efficient data storage and retrieval in the database. It also helps<br>
