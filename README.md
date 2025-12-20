@@ -7,7 +7,7 @@ Clean and preprocess the raw dataset, analyze the sales and performance of e-com
 various states in India, and develop a comprehensive visual data analytics report based on sales data.<br>
 The analysis aims to answer key business questions essential for understanding overall e-commerce performance <br>
 and customer purchasing behaviour.<br>
-Example
+Example:
 - Which product is sold the most ?
 - Which product generates the highest sales and profit ?
 - Which region contributes the highest profit ? etc.....
