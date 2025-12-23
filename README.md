@@ -85,10 +85,10 @@ e-commerce business’s overall performance.<br>
 - 5) MySQL Workbench: Used to store the split tables in a database and retrieve records for report submission.
 - 6) MS Word: Used for quick report preparation and documentation.
 ## Project Structure
-- Uncleaned Dataset (ZIP): Raw dataset before data cleaning and preprocessing.
-- Jupyter Notebook (EDA): Exploratory Data Analysis, data cleaning, and preprocessing.
-- Excel: The Power Query tool was used to support data cleaning and transformation.
-- Cleaned Dataset (ZIP): Final dataset after data cleaning and preprocessing.
+- Uncleaned dataset.zip 
+- Data cleaning and preproccessing report.ipynb
+- Excel power query.jpg
+- Cleaned dataset.zip
 - Jupyter Notebook (Data Visualization): Contains visual analytics, charts, and insights derived from the cleaned dataset.
 - Jupyter Notebook (Statistical Analysis): Statistical analysis and table creation by splitting columns.
 - Power BI Report: Dashboard creation for improved data visualization and presentation.
