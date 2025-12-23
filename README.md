@@ -83,17 +83,17 @@ e-commerce business’s overall performance.<br>
 - 3) Excel: Used the Power Query tool to support EDA, data cleaning, and preprocessing.
 - 4) Power BI: Used to create interactive dashboards for improved presentation and reporting.
 - 5) MySQL Workbench: Used to store the split tables in a database and retrieve records for report submission.
-- 6) MS Word: Used for quick report preparation and documentation.
+- 6) MS Word: Used for quick comparison between the cleaned and uncleaned datasets.
 ## Project Structure
 - Uncleaned dataset.zip 
 - Data cleaning and preproccessing report.ipynb
 - Excel power query.jpg
 - Cleaned dataset.zip
-- Jupyter Notebook (Data Visualization): Contains visual analytics, charts, and insights derived from the cleaned dataset.
-- Jupyter Notebook (Statistical Analysis): Statistical analysis and table creation by splitting columns.
-- Power BI Report: Dashboard creation for improved data visualization and presentation.
-- SQL Report: A detailed and in-depth report of the six-year e-commerce and sales business performance.
-- MS Word Report: A concise summary comparing the cleaned and uncleaned datasets, including key findings and improvements.
+- Data visualization report.ipynb 
+- Statistical Analysis report.ipynb
+- Dashboard report.pbix (Customer details.png, Product details.png, Sales details.png)
+- sql report.sql
+- cleaned vs uncleaned dataset.docx
 ## Conclusion
 This data analytics report provides clear insights into the sales trends and overall performance of the e-commerce business from 2019 to 2025<br>
 across various states in India. The data cleaning and analysis process transformed raw, unstructured information into meaningful insights<br> 
